@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samgkigotho
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning Google Cloud Associate & Learn to Cloud Challenge
-- 💞️ I’m looking to collaborate on Cloud Projects
+- 🌱 I’m currently learning Google Cloud Associate & ALX Software Developer Programs
+- 💞️ I’m looking to collaborate on Cloud & Engineering 
 - 📫 How to reach me @SamgKigotho
 
 <!---
