@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samgkigotho
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning Google Cloud Associate & ALX Software Developer Programs
+- 🌱 Cyclist
 - 💞️ I’m looking to collaborate on Cloud & Engineering 
 - 📫 How to reach me @SamgKigotho
 
